@@ -1,7 +1,10 @@
 This is for NCHC python Reading group
 
-書
-https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/
+書籍
+
+* Introducing Python - https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/
+
+* Python程式設計實務-從初學到活用Python開發技巧的16堂課(第二版) - https://www.books.com.tw/products/E050035100
 
 心智圖軟體 freemind 下載
 http://freemind.sourceforge.net/wiki/index.php/Download
@@ -12,13 +15,19 @@ https://www.codecademy.com/learn/python
 線上code
 https://try.jupyter.org/
 
+IDE
+
+* PyCharm - https://www.jetbrains.com/pycharm/download/
+
+* Visual Studio Core - https://code.visualstudio.com/
+
 應用想法
 
-大數學堂 - http://www.largitdata.com/
+* 大數學堂 - http://www.largitdata.com/
 
-NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
+* NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
-Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/9781457189807  http://www.books.com.tw/products/0010692666
+* Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/9781457189807  http://www.books.com.tw/products/0010692666
 
 -------------------------------------------------
 
@@ -33,6 +42,12 @@ Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/
 * todo/sakana/ - sakana 練習目錄
 * todo/matt/ - 小杜 練習目錄
 * todo/Ray/ - 義棟 練習目錄
+
+-------------------------------------------------
+
+## 2019年讀書會
+
+* Member: sakana, 國陽
 
 -------------------------------------------------
 
