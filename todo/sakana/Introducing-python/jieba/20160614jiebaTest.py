@@ -15,7 +15,7 @@ print()
 
 #
 seg_list = jieba.cut("他来到了新竹科學園區")  # 預設是精确模式
-print("Defaut Mode: " + " ".join(seg_list))
+print("Default Mode: " + " ".join(seg_list))
 print("===================")
 print()
 
