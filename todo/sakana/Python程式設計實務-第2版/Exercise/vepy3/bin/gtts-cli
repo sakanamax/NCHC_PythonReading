@@ -1,0 +1,12 @@
+#!/bin/sh
+'''exec' /Dropbox/sakana/Dropbox/Max/Learn/python/NCHC_PythonReading/todo/sakana/Python程式設計實務-第2版/Exercise/vepy3/bin/python3 "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from gtts.cli import tts_cli
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(tts_cli())

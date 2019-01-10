@@ -2,6 +2,16 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/1/10
+
+* 進度 ： Chapter 2 ~ 
+
+* 安裝 virtualenv / numpy / matplotlib / python3-tk
+
+* gTTs 測試 - 指令可以, 但是 gtts.py 無法 import gTTS
+
+------------------------------
+
 2019/1/7
 
 * 購買 Python 程式設計實務第2版電子書,安裝 vscode
