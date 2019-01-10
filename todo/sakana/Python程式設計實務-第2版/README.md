@@ -4,7 +4,7 @@ This is notes for Max reading
 
 2019/1/10
 
-* 進度 ： Chapter 2 ~ 
+* 進度 ： Chapter 2 ~ Chapter 4 結束
 
 * 安裝 virtualenv / numpy / matplotlib / python3-tk
 
