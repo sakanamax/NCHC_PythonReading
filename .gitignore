@@ -49,6 +49,9 @@ Temporary Items
 # VS Code
 .vscode/settings.json
 
+# Python Cache
+*.pyc
+
 # PyCharm local config
 .idea/workspace.xml
 .idea/tasks.xml

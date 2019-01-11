@@ -2,6 +2,18 @@ This is notes for Max reading
 
 ------------------------------
 
+書本中安裝的套件
+
+使用 pip 安裝
+
+* virtualenv / numpy / matplotlib
+
+使用 zypper 安裝
+
+* python3-tk
+
+------------------------------
+
 2019/1/10
 
 * 進度 ： Chapter 2 ~ Chapter 4 結束
