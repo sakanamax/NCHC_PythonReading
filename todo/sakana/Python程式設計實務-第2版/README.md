@@ -14,6 +14,12 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/1/15
+
+* 進度: Chapter 5 ~ Chapter 5 結束
+
+------------------------------
+
 2019/1/10
 
 * 進度 ： Chapter 2 ~ Chapter 4 結束
