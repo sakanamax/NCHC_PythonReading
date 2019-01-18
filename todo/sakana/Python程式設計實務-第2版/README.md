@@ -17,7 +17,7 @@ This is notes for Max reading
 
 2019/1/18
 
-* 進度: Chapter 6 ~ Chapter 6-3-3
+* 進度: Chapter 6 ~ Chapter 6 結束
 
 ------------------------------
 
