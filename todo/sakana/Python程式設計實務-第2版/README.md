@@ -14,6 +14,12 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/1/24
+
+* 進度：Chapter 7 ~ Chapter 7-2
+
+------------------------------
+
 2019/1/20
 
 * 刪除 Exercise 內的 vepy3, 因為都沒有使用到, 但是太多檔案變動, 不想要 git commit
