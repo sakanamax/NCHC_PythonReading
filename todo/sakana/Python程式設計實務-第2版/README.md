@@ -6,11 +6,17 @@ This is notes for Max reading
 
 使用 pip 安裝
 
-* virtualenv / numpy / matplotlib
+* virtualenv / numpy / matplotlib / sympy
 
 使用 zypper 安裝
 
 * python3-tk
+
+------------------------------
+
+2019/1/27
+
+* 進度: Chapter 7-3 ~ Chapter 7-4
 
 ------------------------------
 
