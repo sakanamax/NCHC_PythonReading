@@ -14,6 +14,14 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/2/3
+
+* 進度: Chapter 7-5 ~ Chapter 7 結束
+
+* 字串格式化處理了解 with print()
+
+------------------------------
+
 2019/1/27
 
 * 進度: Chapter 7-3 ~ Chapter 7-4
