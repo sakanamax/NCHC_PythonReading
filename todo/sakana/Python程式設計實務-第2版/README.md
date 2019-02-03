@@ -18,7 +18,9 @@ This is notes for Max reading
 
 * 進度: Chapter 7-5 ~ Chapter 7 結束
 
-* 字串格式化處理了解 with print()
+  * 字串格式化處理了解 with print()
+
+* 進度： Getting Started with Python in VS Code https://code.visualstudio.com/docs/python/python-tutorial
 
 ------------------------------
 
