@@ -14,6 +14,15 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/2/6
+
+* 進度: Chapter 8 ~ 8-1-3
+
+* Daniel 提供的 內建 function 與模組筆記 https://github.com/Lin-Huang-Wei/Learn_Python3/blob/master/Note/Python%20%E5%87%BD%E6%95%B8%E5%92%8C%E5%B8%B8%E7%94%A8%E6%A8%A1%E7%B5%84/Python%20%E5%87%BD%E6%95%B8%E8%88%87%E5%B8%B8%E7%94%A8%E6%A8%A1%E7%B5%84%20-%208%20-%20%E5%85%A7%E7%BD%AE%E5%87%BD%E6%95%B8.md
+
+
+------------------------------
+
 2019/2/3
 
 * 進度: Chapter 7-5 ~ Chapter 7 結束
