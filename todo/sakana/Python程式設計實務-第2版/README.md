@@ -4,13 +4,20 @@ This is notes for Max reading
 
 書本中安裝的套件
 
-使用 pip 安裝
+使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / sympy
+* virtualenv / numpy / matplotlib / gtts / sympy
 
 使用 zypper 安裝
 
 * python3-tk
+
+------------------------------
+
+2019/2/12
+* Pythong reading with 國陽
+
+* review Chapter 4 與執行狀況
 
 ------------------------------
 
