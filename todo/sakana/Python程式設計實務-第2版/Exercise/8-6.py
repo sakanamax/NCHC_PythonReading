@@ -6,7 +6,7 @@ def disp_area():
 	for a in climate_data:
 		print("{:>2}:{:<6}\t".format(i,a[0]), end="")
 		i += 1
-		if not (i % 5): print() #這邊要再研究為何要 i % 5 求餘數？
+		if not (i % 5): print() #如果 i % 5 求餘數為 0, 就換行, 就是每五個一列
 	print()
 
 def disp_temp(data):
