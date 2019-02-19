@@ -14,6 +14,17 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/2/19
+
+* 進度: 8-2-3 ~ 8-3-2 結束
+
+* 安裝 sqlitebrowser ( 因為 sqlite manager plugin已經被下架 )
+  * https://sqlitebrowser.org/
+
+* 下次看 8-3-3
+
+------------------------------
+
 2019/2/14
 
 * 進度: 程式 8-4.py ~ 8-6.py
