@@ -16,12 +16,12 @@ This is notes for Max reading
 
 2019/2/19
 
-* 進度: 8-2-3 ~ 8-3-2 結束
+* 進度: 8-2-3 ~ 9-1-2
 
 * 安裝 sqlitebrowser ( 因為 sqlite manager plugin已經被下架 )
   * https://sqlitebrowser.org/
 
-* 下次看 8-3-3
+* 下次看 9-1-3
 
 ------------------------------
 
