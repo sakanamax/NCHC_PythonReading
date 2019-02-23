@@ -6,7 +6,7 @@ This is notes for Max reading
 
 使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / gtts / sympy
+* virtualenv / numpy / matplotlib / gtts / sympy / requests
 
 使用 zypper 安裝
 
@@ -14,11 +14,17 @@ This is notes for Max reading
 
 ------------------------------
 
+2019/2/23
+
+* 進度: 9-1-3 ~ 9-2-1
+
+* 下次看: 9-2-2
+
+------------------------------
+
 2019/2/20
 
-* 進度: 9-1-3 ~ 
-
-* 
+* 進度: 9-1-3 ~ 9-1-3
 
 ------------------------------
 
