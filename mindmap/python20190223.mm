@@ -6717,6 +6717,33 @@
 <node CREATED="1550892640684" ID="ID_907490291" MODIFIED="1550892642046" TEXT="Regular expression operations"/>
 <node CREATED="1550892688117" ID="ID_903545380" MODIFIED="1550892697980" TEXT="re.findall"/>
 </node>
+<node CREATED="1550926222181" ID="ID_1205121116" MODIFIED="1550926257104">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      bs4
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1550926258178" ID="ID_1445136946" MODIFIED="1550926269766" TEXT="https://www.crummy.com/software/BeautifulSoup/"/>
+<node CREATED="1550926927162" ID="ID_1921280671" MODIFIED="1550926939655">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      .find_all
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>

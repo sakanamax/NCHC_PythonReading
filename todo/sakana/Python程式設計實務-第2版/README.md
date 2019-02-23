@@ -6,19 +6,23 @@ This is notes for Max reading
 
 使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / gtts / sympy / requests
+* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4
 
 使用 zypper 安裝
 
 * python3-tk
 
+vscode extension
+
+* GitLens / Code time / Bracket Pair Colorizer
+
 ------------------------------
 
 2019/2/23
 
-* 進度: 9-1-3 ~ 9-2-1
+* 進度: 9-1-3 ~ 9-2-3
 
-* 下次看: 9-2-2
+* 下次看: 9-2-4
 
 ------------------------------
 
