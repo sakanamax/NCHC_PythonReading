@@ -39,9 +39,7 @@ IDE
 * mindmap/ - 心智圖存放
 * notebook/ - jupyter notebook 存放
 * pratice_code_with_codecademy/ - codecademy網站練習相關檔案
-* todo/sakana/ - sakana 練習目錄
-* todo/matt/ - 小杜 練習目錄
-* todo/Ray/ - 義棟 練習目錄
+* todo/ - 讀書會成員練習目錄
 
 -------------------------------------------------
 
