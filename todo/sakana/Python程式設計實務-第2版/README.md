@@ -10,7 +10,7 @@ This is notes for Max reading
 
 使用 zypper 安裝
 
-* python3-tk
+* python3-tk / mariadb-client
 
 vscode extension
 
@@ -18,13 +18,28 @@ vscode extension
 
 ------------------------------
 
+2019/3/7
+
+* 進度: 建立 MySQL in Azure, 然後使用 linux 連線測試
+ * https://sakananote2.blogspot.com/2019/03/mariadb-client-with-opensuse-leap-15.html
+
+* 下次看: 10-1-3 
+
+-------------------------------------------------
+
+2019/3/5
+
+* SA 讀書會
+
+------------------------------
+
 2019/3/1
 
-進度: 9-3-3 ~ 10-1-2
+* 進度: 9-3-3 ~ 10-1-2
 
-下次看: 10-1-3
+* 下次看: 10-1-3
 
-等待 db4free.net 認證信件
+* 等待 db4free.net 認證信件
 
 ------------------------------
 
