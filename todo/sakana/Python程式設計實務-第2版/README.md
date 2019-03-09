@@ -6,15 +6,27 @@ This is notes for Max reading
 
 使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4
+* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4 / mysql-connector-python-rf 與 wheel / mysqlclient
 
 使用 zypper 安裝
 
-* python3-tk / mariadb-client
+* python3-tk / mariadb-client / python3-devel 與 libmariadb-devel ( mysqlclient 相依 ) /
 
 vscode extension
 
 * GitLens / Code time / Bracket Pair Colorizer
+
+------------------------------
+
+2019/3/9
+
+* 進度: 使用 Azure 文件 linux python code 測試
+  * https://docs.microsoft.com/zh-tw/azure/mysql/connect-python
+  * 連線到 Mysql, 建立 database - CREATE DATABASE quickstartdb;
+  * 安裝 mysql-connector-python-rf 測試 建立 table, 顯示 / 更新 / 刪除資料
+
+* 下次嘗試 匯入 CSV
+  * https://www.mxp.tw/6197/
 
 ------------------------------
 
