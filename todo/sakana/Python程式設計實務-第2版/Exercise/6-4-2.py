@@ -18,6 +18,7 @@ print( draw_bar(10,'$'))
 print(draw_bar(symbol='#', n=10))
 
 #
+print("=======================")
 def proc(*args):
     for arg in args:
         print("arg:", arg)
