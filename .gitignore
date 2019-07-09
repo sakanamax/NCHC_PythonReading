@@ -61,3 +61,21 @@ Temporary Items
 .idea/misc.xml
 .idea/modules.xml
 .idea/NCHC_PythonReading.iml
+
+# Daniel Dirctory 
+.todo/daniel/Python程式設計實務-第2版/.bash_history
+.todo/daniel/Python程式設計實務-第2版/.bash_history/*
+.todo/daniel/Python程式設計實務-第2版/.cache
+.todo/daniel/Python程式設計實務-第2版/.cache/*
+.todo/daniel/Python程式設計實務-第2版/.pynb_checkpoints
+.todo/daniel/Python程式設計實務-第2版/.pynb_checkpoints/*
+.todo/daniel/Python程式設計實務-第2版/.ipython
+.todo/daniel/Python程式設計實務-第2版/.ipython/*
+.todo/daniel/Python程式設計實務-第2版/.jupyter
+.todo/daniel/Python程式設計實務-第2版/.jupyter/*
+.todo/daniel/Python程式設計實務-第2版/.local
+.todo/daniel/Python程式設計實務-第2版/.local/*
+.todo/daniel/Python程式設計實務-第2版/.python_history
+.todo/daniel/Python程式設計實務-第2版/.python_history/*
+.todo/daniel/Python程式設計實務-第2版/.vscode
+.todo/daniel/Python程式設計實務-第2版/.vscode/*
