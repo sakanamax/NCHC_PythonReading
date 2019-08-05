@@ -1,0 +1,14 @@
+import os.path
+a = os.path.abspath("7-1.py")
+a
+//印出絕對路徑
+os.path.dirname(a)
+//印出上層目錄名稱
+os.path.basename(a)
+//印出目前變數的最後一個路徑名稱
+a=os.path.abspath(".")
+//印出路徑
+os.path.basename(a)
+//印出目前變數的最後一個路徑名稱
+os.path.dirname(a)
+//印出上層目錄名稱
