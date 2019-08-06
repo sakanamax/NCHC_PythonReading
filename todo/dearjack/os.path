@@ -12,3 +12,7 @@ os.path.basename(a)
 //印出目前變數的最後一個路徑名稱
 os.path.dirname(a)
 //印出上層目錄名稱
+a = os.path.split(a)
+//將檔案及路徑分割顯示
+a = os.path.splitdrive(a)
+//將根目錄與根目錄之後的目錄分割顯示，但在windows 較有明確的顯示，因為磁碟設計不同。
