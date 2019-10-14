@@ -1,6 +1,6 @@
 import json, datetime
 
-fp = open('earthquake.json','r')
+fp = open('earthquake1.json','r')
 earthquakes = json.load(fp)
 
 print("過去7天全球發生重大的地震資訊：")
