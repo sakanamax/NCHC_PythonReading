@@ -7,7 +7,7 @@ import requests, re
 regex = r"([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"
 #url = 'http://xxxx.xxx.xxx'
 # 找網頁中有 電子郵件的 URL 測試
-url = 'https://www.nchc.org.tw/posts/AGW1mIivFC/%E4%BA%A4%E9%80%9A%E8%88%87%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A'
+url = 'https://www.nchc.org.tw/'
 
 html = requests.get(url).text
 
