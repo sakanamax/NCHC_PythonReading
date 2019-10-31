@@ -18,6 +18,13 @@ vscode extension
 
 ------------------------------
 
+2019/10/31
+
+* 嘗試使用  boto3 刪除 bucket 內的 versioning file, 還有 bucket
+  * delete_s3_all_version.py
+
+------------------------------
+
 2019/10/28
 
 * Review Chapter 9
