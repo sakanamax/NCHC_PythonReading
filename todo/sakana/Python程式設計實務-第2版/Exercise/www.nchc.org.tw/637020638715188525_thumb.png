@@ -1,0 +1,930 @@
+
+<!DOCTYPE html>
+<html lang="Zh-hant" xml:lang="Zh-hant">
+<!--英文版<html lang="en" xml:lang="en">-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="/img/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/frontcss/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/frontcss/css/theme.css">
+    <link rel="stylesheet" href="/frontcss/css/theme-elements.css">
+    <link rel="stylesheet" href="/frontcss/css/settings.css" media="screen">
+    <!--fontawesome start-->
+    <link rel="stylesheet" href="/frontcss/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/frontcss/css/fontawesome.min.css">
+    <link rel="stylesheet" href="/frontcss/css/brands.min.css">
+    <link rel="stylesheet" href="/frontcss/css/solid.min.css">
+    <link rel="stylesheet" href="/frontcss/css/regular.min.css">
+    <!--fontawesome end-->
+    <link rel="stylesheet" href="/frontcss/css/style.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/main.js"></script>
+    <noscript>
+        
+        <link rel="stylesheet" href="/frontcss/css/noscript.css">
+    </noscript>
+
+    <!--owl.carousel start-->
+    <link rel="stylesheet" href="/frontcss/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/frontcss/css/owl.theme.default.min.css">
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/main_owl.js"></script>
+    <!--owl.carousel end-->
+    <script src="/Scripts/custom.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120661325-6"></script>
+            <title>國家高速網路與計算中心</title>
+<meta name='Keywords' content='國網中心,高速網路,高速計算,AI,人工智慧,超級電腦,雲端平台,產學合作,AI人工智慧,TWCC'>            <meta name="description" content="財團法人國家實驗研究院高速網路與計算中心，致力於高效能計算、儲存、網路、平台整合等技術，建立一個整合計算、儲存、數據庫、軟體、資訊技能、人工智能的平台，擁有全台灣最強大的高速計算能量和學術網路資源，可透過委託合作、教育訓練、技術轉移等方式，共同提升產官學研的研發能量。" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120661325-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-120661325-6');
+</script></head>
+<body>
+    <!--header start-->
+    <noscript>
+        <div class="noscript_font">
+            <img src="/Home/noJavascript" style="display:none;" alt="noJavascriptImg">
+            您的瀏覽器似乎不支援 JavaScript 語法，但並不會影響到內容的陳述。如需要選擇適合您的字級大小，可利用鍵盤 Ctrl + (+)放大 (-)縮小。如需要返回到上一頁，可使用瀏覽器提供的 Alt + 左方向鍵(←)。如需要列印，可利用鍵盤 Ctrl + p 使用瀏覽器提供的列印功能。如需要收藏，可利用鍵盤 Ctrl + d 使用加入我的最愛。
+        </div>
+    </noscript>
+    <!--header start-->
+    <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": false, "stickyStartAt": 0, "stickySetTop": "0", "stickyChangeLogo": false}'>
+
+        <div class="header-body">
+
+            <!--topmenu start-->
+            <div class="header-container container">
+                <div class="header-row">
+                    <div class="header-column">
+
+                        <div class="header-logo">
+                            <a href="#main-content" class="sr-only  sr-only-focusable" title="跳到主要內容區塊">跳到主要內容區塊</a>
+                            <h1>
+                                <a href="/" title="國家高速網路與計算中心">
+                                    <img alt="國家高速網路與計算中心" width="340" data-sticky-width="330" data-sticky-top="0" src="/UploadImage/SiteLayout/637020638715188525_thumb.png">
+                                </a>
+                            </h1>
+                        </div>
+                        <button class="btn header-btn-collapse-nav float_right" data-toggle="collapse" data-target=".header-nav-main">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                    </div>
+                    <div class="header-column">
+                        <div class="header-row hidden-xs">
+                            <nav class="header-nav-top">
+                                <ul class="nav nav-pills">
+                                    <li>
+                                        <a href="#;return false;" title="上方選單區" accesskey="U" class="accesskey">:::</a>
+                                    </li>
+<li><a   href='/Map?itemid=1&mid=154' style='cursor:pointer' type='2' title='網站導覽'><i class="fa fa-sitemap"></i></a></li><li><a  href='/Home/Index?mid=155'  style='cursor:pointer' type='3' title='回首頁'><i class="fa fa-home"></i></a></li>                                                                            <li><a href='/Home/ChangeLang?lang=2' class='' langid='2' title='EN'>EN</a></li>
+                                    <li class="font_size hidden-xs">
+                                        <a href="#" class="size_s" id="font_s" onClick="size_set('font_s')" onkeypress="size_set('font_s')" title="小字級">A-</a>
+                                        <a href="#" class="size_m" id="font_m" onClick="size_set('font_m')" onkeypress="size_set('font_m')" title="中字級">A</a>
+                                        <a href="#" class="size_l" id="font_l" onClick="size_set('font_l')" onkeypress="size_set('font_l')" title="大字級">A+</a>
+                                    </li>
+                                    <li class="share_icon">
+                                        <a href="https://www.facebook.com/%E5%9C%8B%E7%A0%94%E9%99%A2%E5%9C%8B%E7%B6%B2%E4%B8%AD%E5%BF%83-292580541692362/?notify_field=blurb&modal=profile_completion&notif_id=1558930416338465&notif_t=page_profile_blurb" target="_blank" title="facbook(另開新視窗)">
+                                            <span class="fa-stack fa-xs">
+                                                <i class="fa fa-square fa-stack-2x" style="color: #345db7;"></i>
+                                                <i class="fab fa-facebook-f fa-stack-1x" style="color: #fff;"></i>
+                                            </span>
+                                        </a>
+                                        <a href="https://www.youtube.com/channel/UCWrzkYUM5cwpZExQ4Et5vSw?view_as=subscriber" target="_blank" title="youtube(另開新視窗)">
+                                            <!--英文 youtube(new window)-->
+                                            <span class="fa-stack fa-xs">
+                                                <i class="fa fa-square fa-stack-2x" style="color: #e50012;"></i>
+                                                <i class="fab fa-youtube fa-stack-1x" style="color: #fff;"></i>
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="header-row">
+                            <div class="header-nav">
+                                
+                                <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+                                    <nav>
+                                        <ul class="nav nav-pills" id="mainNav">
+                                            <li class='dropdown'><a  href='/Page?itemid=2&mid=4' class='dropdown-toggle tomenu'  title='核心服務'>核心服務</a><ul class='dropdown-menu'><li class='dropdown-submenu'><a   href='/Page?itemid=2&mid=4' style='cursor:pointer' type='2' title='基礎設施' tabindex='-1'>基礎設施</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=2&mid=4' style='cursor:pointer' type='2' title='超級電腦' tabindex='-1'>超級電腦</a></li><li><a   href='/Page?itemid=3&mid=5' style='cursor:pointer' type='2' title='學研網路TWAREN' tabindex='-1'>學研網路TWAREN</a></li><li><a   href='/Page?itemid=4&mid=6' style='cursor:pointer' type='2' title='科學數據儲存' tabindex='-1'>科學數據儲存</a></li></ul></li><li class='dropdown-submenu'><a   href='/Page?itemid=5&mid=9' style='cursor:pointer' type='2' title='平台服務' tabindex='-1'>平台服務</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=5&mid=9' style='cursor:pointer' type='2' title='iService計算資源服務網' tabindex='-1'>iService計算資源服務網</a></li><li><a   href='/Page?itemid=6&mid=10' style='cursor:pointer' type='2' title='TWCC臺灣AI雲' tabindex='-1'>TWCC臺灣AI雲</a></li><li><a   href='/Page?itemid=7&mid=11' style='cursor:pointer' type='2' title='資料集與分析平台' tabindex='-1'>資料集與分析平台</a></li><li><a   href='/Page?itemid=8&mid=12' style='cursor:pointer' type='2' title='生醫資訊與影像' tabindex='-1'>生醫資訊與影像</a></li><li><a   href='/Page?itemid=9&mid=13' style='cursor:pointer' type='2' title='環境災防' tabindex='-1'>環境災防</a></li><li><a   href='/Page?itemid=11&mid=15' style='cursor:pointer' type='2' title='3D列印' tabindex='-1'>3D列印</a></li><li><a   href='/Page?itemid=12&mid=16' style='cursor:pointer' type='2' title='資訊安全' tabindex='-1'>資訊安全</a></li></ul></li><li class='dropdown-submenu'><a target='_blank'  href='https://edu.nchc.org.tw/'  style='cursor:pointer' type='3' title='教育訓練(另開新視窗)' tabindex='-1'> 教育訓練</a><ul class='dropdown-menu'><li><a target='_blank'  href='https://edu.nchc.org.tw/'  style='cursor:pointer' type='3' title='教育訓練網(另開新視窗)' tabindex='-1'> 教育訓練網</a></li><li><a   href='/Page?itemid=13&mid=20' style='cursor:pointer' type='2' title='AI 產業訓練' tabindex='-1'>AI 產業訓練</a></li><li><a target='_blank'  href='https://aiel.nchc.org.tw/'  style='cursor:pointer' type='3' title='AI數位學習平台(另開新視窗)' tabindex='-1'> AI數位學習平台</a></li><li><a   href='/Page?itemid=86&mid=22' style='cursor:pointer' type='2' title='科普教育' tabindex='-1'>科普教育</a></li><li><a   href='/Page?itemid=87&mid=23' style='cursor:pointer' type='2' title='Co-Life教育平台' tabindex='-1'>Co-Life教育平台</a></li></ul></li></ul></li><li class='dropdown'><a  href='/Page?itemid=14&mid=26' class='dropdown-toggle tomenu'  title='創新技術'>創新技術</a><ul class='dropdown-menu'><li class='dropdown-submenu'><a   href='/Page?itemid=14&mid=26' style='cursor:pointer' type='2' title='人工智慧' tabindex='-1'>人工智慧</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=14&mid=26' style='cursor:pointer' type='2' title='機器學習' tabindex='-1'>機器學習</a></li><li><a   href='/Page?itemid=15&mid=27' style='cursor:pointer' type='2' title='語音辨識' tabindex='-1'>語音辨識</a></li><li><a   href='/Page?itemid=16&mid=28' style='cursor:pointer' type='2' title='影像分析' tabindex='-1'>影像分析</a></li><li><a   href='/Page?itemid=17&mid=29' style='cursor:pointer' type='2' title='文字探勘' tabindex='-1'>文字探勘</a></li></ul></li><li class='dropdown-submenu'><a   href='/Page?itemid=20&mid=34' style='cursor:pointer' type='2' title='智慧應用' tabindex='-1'>智慧應用</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=20&mid=34' style='cursor:pointer' type='2' title='智慧醫療' tabindex='-1'>智慧醫療</a></li><li><a   href='/Page?itemid=19&mid=33' style='cursor:pointer' type='2' title='智慧製造' tabindex='-1'>智慧製造</a></li><li><a   href='/Page?itemid=21&mid=35' style='cursor:pointer' type='2' title='智慧城市' tabindex='-1'>智慧城市</a></li><li><a   href='/Page?itemid=22&mid=36' style='cursor:pointer' type='2' title='算圖農場' tabindex='-1'>算圖農場</a></li><li><a   href='/Page?itemid=57&mid=104' style='cursor:pointer' type='2' title='科學視算' tabindex='-1'>科學視算</a></li><li><a   href='/Page?itemid=56&mid=103' style='cursor:pointer' type='2' title='材料科技' tabindex='-1'>材料科技</a></li><li><a   href='/Page?itemid=23&mid=37' style='cursor:pointer' type='2' title='區塊鏈' tabindex='-1'>區塊鏈</a></li><li><a   href='/Page?itemid=25&mid=39' style='cursor:pointer' type='2' title='軟體技術' tabindex='-1'>軟體技術</a></li></ul></li></ul></li><li class='dropdown'><a  href='/Page?itemid=26&mid=41' class='dropdown-toggle tomenu'  title='合作實績'>合作實績</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=26&mid=41' style='cursor:pointer' type='2' title='科研成果' tabindex='-1'>科研成果</a></li><li><a   href='/Page?itemid=29&mid=44' style='cursor:pointer' type='2' title='國際合作' tabindex='-1'>國際合作</a></li><li><a   href='/Message?itemid=5&mid=42' style='cursor:pointer' type='2' title='AI合作夥伴' tabindex='-1'>AI合作夥伴</a></li></ul></li><li class='dropdown'><a  href='/Message?itemid=1&mid=46' class='dropdown-toggle tomenu'  title='動態資訊'>動態資訊</a><ul class='dropdown-menu'><li><a   href='/Message?itemid=1&mid=46' style='cursor:pointer' type='2' title='焦點新聞' tabindex='-1'>焦點新聞</a></li><li><a   href='/Active?itemid=2&mid=47' style='cursor:pointer' type='2' title='活動專區' tabindex='-1'>活動專區</a></li><li><a   href='/Active?itemid=4&mid=48' style='cursor:pointer' type='2' title='活動集錦' tabindex='-1'>活動集錦</a></li><li><a   href='/Page?itemid=30&mid=52' style='cursor:pointer' type='2' title='招標公告' tabindex='-1'>招標公告</a></li><li><a   href='/Download?itemid=1&mid=49' style='cursor:pointer' type='2' title='出版品專區' tabindex='-1'>出版品專區</a></li><li><a   href='/Patent?itemid=1&mid=50' style='cursor:pointer' type='2' title='專利/商標與技術移轉' tabindex='-1'>專利/商標與技術移轉</a></li><li><a   href='/Active?itemid=6&mid=51' style='cursor:pointer' type='2' title='專利/商標與技術移轉公告' tabindex='-1'>專利/商標與技術移轉公告</a></li><li><a   href='/Videos?itemid=1&mid=55' style='cursor:pointer' type='2' title='影音專區' tabindex='-1'>影音專區</a></li><li><a   href='/Page?itemid=31&mid=53' style='cursor:pointer' type='2' title='輿情回應' tabindex='-1'>輿情回應</a></li></ul></li><li class='dropdown'><a  href='/Page?itemid=33&mid=58' class='dropdown-toggle tomenu'  title='關於我們'>關於我們</a><ul class='dropdown-menu'><li><a   href='/Page?itemid=33&mid=58' style='cursor:pointer' type='2' title='任務願景' tabindex='-1'>任務願景</a></li><li><a   href='/Page?itemid=36&mid=62' style='cursor:pointer' type='2' title='組織架構' tabindex='-1'>組織架構</a></li><li><a   href='/Page?itemid=34&mid=59' style='cursor:pointer' type='2' title='主任室' tabindex='-1'>主任室</a></li><li><a   href='/Event?itemid=2&mid=63' style='cursor:pointer' type='2' title='大事記要' tabindex='-1'>大事記要</a></li><li><a   href='/Page?itemid=35&mid=60' style='cursor:pointer' type='2' title='交通與聯絡資訊' tabindex='-1'>交通與聯絡資訊</a></li><li><a   href='/Page?itemid=38&mid=65' style='cursor:pointer' type='2' title='人才招募' tabindex='-1'>人才招募</a></li><li><a   href='/Form?itemid=1&mid=61' style='cursor:pointer' type='2' title='參觀服務' tabindex='-1'>參觀服務</a></li><li><a   href='/Page?itemid=39&mid=66' style='cursor:pointer' type='2' title='場地租借' tabindex='-1'>場地租借</a></li></ul></li>
+                                        </ul>
+
+                                        <ul class="nav nav-top visible-xs">
+                                            <li><a   href='/Map?itemid=1&mid=154' style='cursor:pointer' type='2' title='網站導覽'><i class="fa fa-sitemap"></i>網站導覽</a></li><li><a  href='/Home/Index?mid=155'  style='cursor:pointer' type='3' title='回首頁'><i class="fa fa-home"></i>回首頁</a></li>
+                                                <li><a href='/Home/ChangeLang?lang=2' class='' langid='2' title='EN'><i class="fa fa-language"></i>EN</a></li>
+                                            <li>
+                                                <a href="https://www.facebook.com/%E5%9C%8B%E7%A0%94%E9%99%A2%E5%9C%8B%E7%B6%B2%E4%B8%AD%E5%BF%83-292580541692362/?notify_field=blurb&modal=profile_completion&notif_id=1558930416338465&notif_t=page_profile_blurb" target="_blank" title="facbook(另開新視窗)">
+                                                    <!--英文 facebook(new window)-->
+                                                    <i class="fab fa-facebook-f"></i> facebook
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.youtube.com/channel/UCWrzkYUM5cwpZExQ4Et5vSw?view_as=subscriber" target="_blank" title="youtube(另開新視窗)">
+                                                    <!--英文 youtube(new window)-->
+                                                    <i class="fab fa-youtube"></i> youtube
+                                                </a>
+                                            </li>
+                                        </ul>
+
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--topmenu end-->
+        </div>
+    </header>
+    <!--header end-->
+    <!--header end-->
+    
+<!--banner start-->
+
+<!--banner start-->
+
+<div class="index_banner">
+    <!--設定檔在theme.js 1190行；電腦版和手機版分開-->
+    <!--pc start--><!--圖片建議尺寸2600*1000px-->
+    <div class="hidden-xs">
+        <div class="slider-container rev_slider_wrapper">
+            <div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+                <ul>
+
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637086423987182572_資安.jpg" alt="一次都不能輸的防護">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">一次都不能輸的防護</div>
+                                    <div class="con_font">A defense we cannot afford to lose</div><br />
+                                    <div class="btn_box"><a href="https://www.nchc.org.tw/Message/MessageView/3324?mid=42&amp;page=1" title="一次都不能輸的防護 了解更多 " target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637055284077073843_PC.jpg" alt="智慧安控 用心所以安心">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">智慧安控 用心所以安心</div>
+                                    <div class="con_font">Intelligence inside, ease in mind</div><br />
+                                    <div class="btn_box"><a href="https://www.nchc.org.tw/Message/MessageView/3317?mid=42&amp;page=1" title="智慧安控 用心所以安心 了解更多 " target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637027542460851275_banner_看不見_2600.jpg" alt="看不見 但很重要">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">看不見 但很重要</div>
+                                    <div class="con_font">TWCC助攻數位病理辨識 實現精準醫療</div><br />
+                                    <div class="btn_box"><a href="/Message/MessageView/3313?mid=42&amp;page=1" title="看不見 但很重要 了解更多 " target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637020698523075052_banner_pig_2600.jpg" alt="電腦也會選豬仔">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">電腦也會選豬仔</div>
+                                    <div class="con_font">精準農業 創造新產值</div><br />
+                                    <div class="btn_box"><a href="/Page?itemid=27&amp;mid=42" title="電腦也會選豬仔 了解更多 " target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li class="slide-overlay" data-transition="fade">
+                                <div class="rs-background-video-layer"
+                                     data-forcerewind="on"
+                                     data-volume="mute"
+                                     data-videowidth="100%"
+                                     data-videoheight="100%"
+                                     data-videomp4="/video/ADEdit/637020702959372745.mp4"
+                                     data-videopreload="preload"
+                                     data-videoloop="loop"
+                                     data-forceCover="1"
+                                     data-aspectratio="16:9"
+                                     data-autoplay="true"
+                                     data-autoplayonlyfirsttime="false"
+                                     data-nextslideatend="true">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">國內自研自製AI超級電腦締造新紀錄</div>
+                                    <div class="con_font">計算能量世界排名20名 能源效率世界排名10名</div><br />
+                                    <div class="btn_box"><a href="/Message/MessageView/198?mid=46&amp;page=1" title="國內自研自製AI超級電腦締造新紀錄 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--pc end-->
+    <!--mobile start--><!--圖片建議尺寸1200*2000px-->
+    <div class="visible-xs">
+        <div class="slider-container rev_slider_wrapper">
+            <div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+                <ul>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637086435886430020_資安_v.jpg" alt="一次都不能輸的防護">
+                                </div>
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">一次都不能輸的防護</div>
+                                    <div class="con_font">A defense we cannot afford to lose</div><br />
+                                    <div class="btn_box"><a href="https://www.nchc.org.tw/Message/MessageView/3324?mid=42&amp;page=1" title="一次都不能輸的防護 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637055284647544059_Phone.jpg" alt="智慧安控 用心所以安心">
+                                </div>
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">智慧安控 用心所以安心</div>
+                                    <div class="con_font"> Intelligence inside, ease in mind</div><br />
+                                    <div class="btn_box"><a href="https://www.nchc.org.tw/Message/MessageView/3317?mid=42&amp;page=1" title="智慧安控 用心所以安心 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637027544380042188_banner_看不見_1200.jpg" alt="看不見 但很重要">
+                                </div>
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">看不見 但很重要</div>
+                                    <div class="con_font">TWCC助攻數位病理辨識 實現精準醫療</div><br />
+                                    <div class="btn_box"><a href="/Message/MessageView/1313?mid=42&amp;page=1" title="看不見 但很重要 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li data-transition="fade">
+                                <div class="tp-caption tp-resizeme"
+                                     data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                                     data-type="image"
+                                     data-x="center"
+                                     data-y="top"
+                                     data-width="['auto']"
+                                     data-height="['auto']"
+                                     data-basealign="slide">
+                                    <img src="/UploadImage/ADMain/637020760567831957_banner_pig_1200.jpg" alt="電腦也會選豬仔">
+                                </div>
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">電腦也會選豬仔</div>
+                                    <div class="con_font">精準農業 創造新產值</div><br />
+                                    <div class="btn_box"><a href="/Page?itemid=27&amp;mid=42" title="電腦也會選豬仔 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                            <li class="slide-overlay" data-transition="fade">
+                                <div class="rs-background-video-layer"
+                                     data-forcerewind="on"
+                                     data-volume="mute"
+                                     data-videowidth="100%"
+                                     data-videoheight="100%"
+                                     data-videomp4="/video/ADEdit/637020717932064793.mp4"
+                                     data-videopreload="preload"
+                                     data-videoloop="loop"
+                                     data-forceCover="1"
+                                     data-aspectratio="16:9"
+                                     data-autoplay="true"
+                                     data-autoplayonlyfirsttime="false"
+                                     data-nextslideatend="true">
+                                </div>
+
+                                <div class="tp-caption item_box" data-x="30" data-y="220" data-start="0" data-transform_in="y:[0%];opacity:0;s:0;">
+                                    <div class="title">國內自研自製AI超級電腦締造新紀錄</div>
+                                    <div class="con_font">計算能量世界排名20名 能源效率世界排名10名</div><br />
+                                    <div class="btn_box"><a href="/Message/MessageView/198?mid=46&amp;page=1" title="國內自研自製AI超級電腦締造新紀錄 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+                                </div>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--mobile end-->
+    <noscript>
+        <!--僅顯示圖片，影片不置入-->
+        <div class="noscrip_banner defaultimg" style="width:100%">
+            <img src="/img/index_banner_fake.jpg" alt="banner">
+                    <div><img src="/UploadImage/ADMain/637086423987182572_資安.jpg" alt="一次都不能輸的防護" /></div>
+                    <div><img src="/UploadImage/ADMain/637055284077073843_PC.jpg" alt="智慧安控 用心所以安心" /></div>
+                    <div><img src="/UploadImage/ADMain/637027542460851275_banner_看不見_2600.jpg" alt="看不見 但很重要" /></div>
+                    <div><img src="/UploadImage/ADMain/637020698523075052_banner_pig_2600.jpg" alt="電腦也會選豬仔" /></div>
+        </div>
+    </noscript>
+
+</div>
+<!--banner end-->
+
+<div class="news_box">
+
+    <!--index_news start-->
+    <div class="index_news">
+        <div class="container">
+
+            <div class="accesskey">
+                <a href="#;return false;" title="主要內容區" accesskey="C" id="main-content">:::</a>
+            </div>
+                <div class="item" data-sr="enter bottom over 1.5s">
+                    <a href="/Message/MessageView?id=3325&amp;menutype=0&amp;sitemenuid=5&amp;mid=46" title="臺灣AI雲智慧資安升級 協助國內抵禦每月1.5億次網路攻擊 ">
+                        <img src="/UploadImage/MessageItem/637092629336936948_國網資安篇_攻防戰 (14)s.png" alt="臺灣AI雲智慧資安升級 協助國內抵禦每月1.5億次網路攻擊 " align="left" /><!--建議尺寸800*600px-->
+                        <div class="date">2019/11/08</div>
+                        <div class="title">臺灣AI雲智慧資安升級 協助國內抵禦每月1.5億次網路攻擊 <i class="fas fa-arrow-right"></i></div><!--字數限制30字設定，最後面加鍵頭icon-->
+                    </a>
+                </div>
+                <div class="item" data-sr="enter bottom over 1.5s">
+                    <a href="/Message/MessageView?id=3321&amp;menutype=0&amp;sitemenuid=5&amp;mid=46" title="TWCC臺灣AI雲正式商轉  推動臺灣AI產業大步躍進">
+                        <img src="/UploadImage/MessageItem/637070375743928966_臺灣AI雲宣佈商轉貴賓合影1.JPG" alt="TWCC臺灣AI雲正式商轉  推動臺灣AI產業大步躍進" align="left" /><!--建議尺寸800*600px-->
+                        <div class="date">2019/10/17</div>
+                        <div class="title">TWCC臺灣AI雲正式商轉  推動臺灣AI產業大步躍進<i class="fas fa-arrow-right"></i></div><!--字數限制30字設定，最後面加鍵頭icon-->
+                    </a>
+                </div>
+            <div class="btn_box" data-sr="enter right over 1.5s">
+                <a href="/Message?itemid=1&amp;mid=46" title="更多焦點新聞">
+                    <span>更多訊息</span><i class="fas fa-plus-circle fa-2x" "></i>
+                </a>
+            </div>
+
+        </div>
+    </div>
+    <!--index_news end-->
+    <!--index_activity start-->
+    <div class="index_activity">
+        <div class="container">
+            <!--動態資訊/活動專區top5-->
+            <div class="owl-carousel show-nav-title owl-theme banner_01">
+                    <div class="item">
+                        <a href="/Active/ActiveView?id=147&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="新竹GPU Bootcamp活動好評加場，歡迎組隊報名參加！">
+                            <div class="date">2019/11/19</div>
+                            <div class="title">新竹GPU Bootcamp活動好評加場，歡迎組隊報名參加！</div>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView?id=140&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="邁向產業AI化: AIoT與資料分析【NCTU&amp;NCHC成果">
+                            <div class="date">2019/10/31</div>
+                            <div class="title">邁向產業AI化: AIoT與資料分析【NCTU&amp;NCHC成果</div>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView?id=139&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="智同道合-TWCC臺灣AI雲產業應用峰會">
+                            <div class="date">2019/10/17</div>
+                            <div class="title">智同道合-TWCC臺灣AI雲產業應用峰會</div>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView?id=46&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="TWCC 臺灣AI雲委託經銷商提案">
+                            <div class="date">2019/09/26</div>
+                            <div class="title">TWCC 臺灣AI雲委託經銷商提案</div>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView?id=135&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="敬邀參加10/7國研院「產業趨勢論壇暨國研院智慧領域技術成果">
+                            <div class="date">2019/09/24</div>
+                            <div class="title">敬邀參加10/7國研院「產業趨勢論壇暨國研院智慧領域技術成果</div>
+                        </a>
+                    </div>
+            </div>
+            <noscript>
+                <!--動態資訊/活動專區top1-->
+                <div class="noscript_activity">
+                        <div class="item">
+                            <a href="/Active/ActiveView?id=147&amp;menutype=0&amp;sitemenuid=3&amp;mid=47" title="新竹GPU Bootcamp活動好評加場，歡迎組隊報名參加！">
+                                <div class="date">2019/11/19</div>
+                                <div class="title">新竹GPU Bootcamp活動好評加場，歡迎組隊報名參加！</div>
+                            </a>
+                        </div>
+                </div>
+            </noscript>
+            <div class="btn_box" data-sr="enter right over 1.5s"><a href="/Active?itemid=2&amp;mid=47" title="更多活動專區"><span>更多訊息</span><i class="fas fa-plus-circle fa-2x"></i></a></div><!--連結至 動態資訊/活動專區 列表頁-->
+        </div>
+    </div>
+
+
+    <!--index_news end-->
+</div>
+<!--open_01 start-->
+    <div class="open_01">
+        <div class="title_01">
+            <div class="container">
+                <h2>主機相關服務</h2>
+            </div>
+        </div>
+        <div class="container">
+            <div class="left">
+                <div class="con_font" data-sr="enter bottom over 1.5s">國網中心承接「前瞻基礎建設之建構雲端服務及大數據運算平台計畫」，建構國家級AI人工智慧研發基礎設施，以促進國內新興科技與產業發展，落實新世代關鍵技術紮根。</div>
+                <ul class="list">
+                        <li data-sr="enter bottom over 1.5s">
+                            <a href="https://www.twcc.ai/" target="_blank" title="TWCC (Taiwan Computing Cloud)臺灣AI雲(另開新視窗)">
+                                    <div class="img"><img src="/UploadImage/PageLayout/637020759925110520_logo_01.jpg " alt="TWCC (Taiwan Computing Cloud)臺灣AI雲"></div>
+                                <div class="con_font">  整合全球Top20的AI超級電腦、多元軟體應用、資料集、巨量儲存的雲端服務平台</div>
+                            </a>
+                        </li>
+                        <li data-sr="enter bottom over 1.5s">
+                            <a href="https://iservice.nchc.org.tw/nchc_service/index.php" target="_blank" title="iService服務網(另開新視窗)">
+                                    <div class="img"><i class="fas fa-play-circle"></i><div class="item_title">iService服務網</div></div>
+                                <div class="con_font">  計算資源申請服務，包含：台灣杉一號、大資料分析平台、算圖農場等應用</div>
+                            </a>
+                        </li>
+                        <li data-sr="enter bottom over 1.5s">
+                            <a href="/Page?itemid=13&amp;mid=20" target="_blank" title="AI 產業訓練(另開新視窗)">
+                                    <div class="img"><i class="fas fa-play-circle"></i><div class="item_title">AI 產業訓練</div></div>
+                                <div class="con_font">  為協助產業將AI應用技術於場域內落地實現，提供AI課程教學來提升企業人才技術能力</div>
+                            </a>
+                        </li>
+                        <li data-sr="enter bottom over 1.5s">
+                            <a href="https://aiel.nchc.org.tw/" target="_blank" title="AI數位學習平台(另開新視窗)">
+                                    <div class="img"><i class="fas fa-play-circle"></i><div class="item_title">AI數位學習平台</div></div>
+                                <div class="con_font">  過濾及系統化整理目前線上已有的AI相關學習資源，協助AI的知識普及化，進而促動產業AI化的發展</div>
+                            </a>
+                        </li>
+                </ul>
+            </div>
+            <div class="right">
+                <div class="title_01">
+                    <h2>計算資源服務網</h2>
+                    <a href="https://iservice.nchc.org.tw/nchc_service/index.php" target="_blank" title="前往申請(另開新視窗)" data-sr="enter right over 1.5s">
+                        <span>前往申請</span><i class="fas fa-arrow-alt-circle-right fa-3x"></i>
+                    </a><!--固定連結如sample-->
+                </div>
+
+                <ul class="list">
+                        <li data-sr="enter bottom over 1.5s">
+<div class="img"><img src="/UploadImage/PageLayout/637043297795640317_open_pic_02.jpg" alt="客服專線" /></div>                            <div class="con">
+                                <div class="title">客服專線</div>
+                                <div class="con_font">
+                                    電話 : 0809-091-365
+                                </div>
+                            </div>
+                        </li>
+                        <li data-sr="enter bottom over 1.5s">
+<div class="img"><img src="/UploadImage/PageLayout/637020759499723036_637006858323216253_open_pic_01.jpg" alt="帳號申請服務" /></div>                            <div class="con">
+                                <div class="title">帳號申請服務</div>
+                                <div class="con_font">
+                                    呂小姐                            <br>Email : iservice@narlabs.org.tw
+                                </div>
+                            </div>
+                        </li>
+                        <li data-sr="enter bottom over 1.5s">
+<div class="img"><img src="/UploadImage/PageLayout/637043297795796619_open_pic_03.jpg" alt="技術支援服務" /></div>                            <div class="con">
+                                <div class="title">技術支援服務</div>
+                                <div class="con_font">
+                                    李先生<br>Email : isupport@narlabs.org.tw
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<!--open_01 end-->
+<!--open_02 start-->
+    <div class="open_02">
+        <div class="container">
+            <div class="left">
+                <div class="title" data-sr="enter bottom over 1.5s">TWCC臺灣AI雲</div>
+                <div class="con_font" data-sr="enter bottom over 2.5s">國網中心整合大資料、高速計算、100G網路、AI雲端平台、巨量儲存和專業技術服務，提供產官學研各界發展AI的重要實驗場域，並建構新世代AI人才創新研發之生態，激盪眾人的智慧及促進科技轉型與產業升級，為臺灣創造更高價值的研發技術與智慧應用，並帶領臺灣產業升級創新、翻轉未來。</div>
+                <div class="btn_box" data-sr="enter bottom over 3.5s">
+                    <a href="/Page?itemid=6&amp;mid=10" title="TWCC臺灣AI雲 了解更多" target="">
+                        <span class="btn_01">
+                            了解更多
+                            <i class="fas fa-arrow-alt-circle-right"></i>
+                        </span>
+                    </a>
+                </div><!--連結title + 了解更多，帶入該區塊標題；按鈕文字"了解更多"為固定，不用後台修改(英文版more)-->
+            </div>
+            <div class="right" style="background:url(/UploadImage/PageLayout/637020829644584335_20190811111.jpg);background-position:top center;background-size:cover;" data-sr="enter right over 1.5s"></div><!--建議尺寸400*850px-->
+        </div>
+    </div>
+<!--open_02 end-->
+<!--open_03 start-->
+    <div class="open_03">
+        <div class="box_01">
+            <div class="container">
+                <div class="title" data-sr="enter bottom over 1.5s">一次都不能輸的防護</div>
+                <div class="con_font" data-sr="enter bottom over 1.5s">國網中心以超級電腦，打造國家級的資安防護網，為了守護數位時代裡有價與無價的珍貴資產，資安是一秒都不能鬆懈，一次都不能輸的防護，只要有一次的不成功，數位邊界的潰守將帶來災難式的嚴重傷害...</div>
+                <!--PC btn-->
+                <div class="btn_box hidden-xs" data-sr="enter right over 1.5s"><a href="https://www.nchc.org.tw/Message/MessageView/3324?mid=42&amp;page=1" title="一次都不能輸的防護 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+            </div>
+        </div>
+        <div class="box_02">
+            <div class="container">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3a5N4R-a6T4" frameborder="0" allowfullscreen title="一次都不能輸的防護"></iframe>
+                </div>
+                <!--mobile btn-->
+                <div class="btn_box visible-xs" data-sr="enter right over 1.5s"><a href="https://www.nchc.org.tw/Message/MessageView/3324?mid=42&amp;page=1" title="一次都不能輸的防護 了解更多" target=""><span class="btn_01">了解更多<i class="fas fa-arrow-alt-circle-right"></i></span></a></div>
+            </div>
+        </div>
+    </div>
+<!--open_03 end-->
+<!--index_album start--><!--此區塊固定7個區塊(圖+標題+連結)，後台上傳圖片需可裁切圖片，各區塊圖片尺寸備註於圖片後方-->
+<div class="index_album">
+    <div class="container">
+        <div class="title_01"><h2>相關活動</h2></div>
+        <a href="/Active?itemid=4&amp;mid=48" title="更多相關活動" data-sr="enter right over 1.5s"><span>更多訊息</span> <i class="fas fa-plus-circle fa-3x"></i></a><!--連結至 動態資訊/活動集錦 列表頁；英文more-->
+        <div class="album_list">
+
+            <div class="list_01">
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Active/ActiveView/92?mid=48&amp;page=1" title="國研院生醫AI沙龍　探討生醫產業生態系資料收整議題">
+                            <img src="/UploadImage/PageLayout/637025963024033467_636990424760227191a.jpg" alt="國研院生醫AI沙龍　探討生醫產業生態系資料收整議題" /><!--建議尺寸800*383px-->
+                            <div class="title">
+                                國研院生醫AI沙龍　探討生醫產業生態系資料收整議題
+                            </div>
+                        </a>
+
+                </div>
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Active/ActiveView/122?mid=48&amp;page=1" title="史曉斌主任於IBM科技論壇擔任與談人暢談國家AI發展趨勢">
+                            <img src="/UploadImage/PageLayout/637025960214656746_637015748272753961a.jpg" alt="史曉斌主任於IBM科技論壇擔任與談人暢談國家AI發展趨勢" /><!--建議尺寸800*383px-->
+                            <div class="title">
+                                史曉斌主任於IBM科技論壇擔任與談人暢談國家AI發展趨勢
+                            </div>
+                        </a>
+                </div>
+            </div>
+
+            <div class="list_02">
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Message/MessageView/207?mid=46&amp;page=1" title="眾智凌雲 開創台灣雲端智慧大未來 台灣AI計算雲TWCC開始試營運">
+                            <img src="/UploadImage/PageLayout/637020825954184146_636988729615044489.jpg " alt="眾智凌雲 開創台灣雲端智慧大未來 台灣AI計算雲TWCC開始試營運" /><!--建議尺寸400*833px-->
+                            <div class="title">
+                                眾智凌雲 開創台灣雲端智慧大未來 台灣AI計算雲TWCC開始試營運
+                            </div>
+                        </a>
+                </div>
+            </div>
+
+            <div class="list_03">
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Active/ActiveView/125?mid=48&amp;page=1" title="國研院南部實驗室體驗活動 民眾感受科學魅力">
+                            <img src="/UploadImage/PageLayout/637025975924046710_637012195640969673a.jpg" alt="國研院南部實驗室體驗活動 民眾感受科學魅力" /><!--建議尺寸800*800px-->
+                            <div class="title">
+                                國研院南部實驗室體驗活動 民眾感受科學魅力
+                            </div>
+                        </a>
+
+                </div>
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Message/MessageView/204?mid=46&amp;page=1" title="2019智慧城市專業論壇 -「智慧城市的技術發展與應用創新」報導">
+                            <img src="/UploadImage/PageLayout/637020827062951342_636985465895641547.jpeg" alt="2019智慧城市專業論壇 -「智慧城市的技術發展與應用創新」報導" /><!--建議尺寸800*800px-->
+                            <div class="title">
+                                2019智慧城市專業論壇 -「智慧城市的技術發展與應用創新」報導
+                            </div>
+                        </a>
+                </div>
+            </div>
+
+            <div class="list_04">
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Message/MessageView/180?mid=46&amp;page=3" title="資安人才的鑄練場 雲端資安攻防平台正式啟用">
+                            <img src="/UploadImage/PageLayout/637020824962192665_636985393256620337.jpeg" alt="資安人才的鑄練場 雲端資安攻防平台正式啟用" /><!--建議尺寸800*800px-->
+                            <div class="title">
+                                資安人才的鑄練場 雲端資安攻防平台正式啟用
+                            </div>
+                        </a>
+                </div>
+                <div class="item" data-sr="enter bottom over 1.5s">
+                        <a href="/Active/ActiveView/121?mid=48&amp;page=1" title="林錫慶副主任受邀於生技月大健康論壇分享國網中心AI醫療應用">
+                            <img src="/UploadImage/PageLayout/637025973559407961_637015704138590986a.jpg" alt="林錫慶副主任受邀於生技月大健康論壇分享國網中心AI醫療應用" /><!--建議尺寸800*800px-->
+                            <div class="title">
+                                林錫慶副主任受邀於生技月大健康論壇分享國網中心AI醫療應用
+                            </div>
+                        </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--index_album end-->
+<!--index_training start--><!--api串接-->
+<div class="index_training ">
+
+    <div class="left">
+        <img src="/img/training_title.png" alt="教育訓練" title="教育訓練" /><!--英文<img src="img/training_title_en.png" alt="Training" title="Training" />-->
+    </div>
+
+    <div class="right">
+        <div class="btn_box" data-sr="enter right over 1.5s"><a href="https://edu.nchc.org.tw/" title="NCHC教育訓練網(另開新視窗)" target="_blank"><span>NCHC教育訓練網</span> <i class="fas fa-plus-circle fa-2x"></i></a></div><!--固定連結如sample-->
+        <ul class="training_list">
+            <li data-sr='enter bottom over 1.5s'><div class='date_map'>2019/11/26<span class='map'>新竹</span></div> <div class='title'><a href='https://edu.nchc.org.tw/course/one_course_introduction.asp?lms_auto_course_id=3872&from_course_list_url=course_index' target='_blank' title='OpenStack雲端平台建置與管理課程(另開新視窗)'>OpenStack雲端平台建置與管理課程</a></div></li><li data-sr='enter bottom over 1.5s'><div class='date_map'>2019/12/03<span class='map'>台南</span></div> <div class='title'><a href='https://edu.nchc.org.tw/course/one_course_introduction.asp?lms_auto_course_id=3873&from_course_list_url=course_index' target='_blank' title='系統弱點分析實務(另開新視窗)'>系統弱點分析實務</a></div></li><li data-sr='enter bottom over 1.5s'><div class='date_map'>2019/12/05<span class='map'>新竹</span></div> <div class='title'><a href='https://edu.nchc.org.tw/course/one_course_introduction.asp?lms_auto_course_id=3816&from_course_list_url=course_index' target='_blank' title='DRBL與Clonezilla「集中管理環境」進階課程(另開新視窗)'>DRBL與Clonezilla「集中管理環境」進階課程</a></div></li>
+        </ul>
+    </div>
+
+</div>
+<!--index_training end-->
+<!--index_link start--><!--後台首頁相關連結，全部顯示，無對應模組，標題+圖片+連結-->
+<div class="index_link">
+    <div class="container">
+        <div class="owl-carousel owl-theme link_01" id="owl-single">
+                <div class="item">
+                    <a href="https://most.nchc.org.tw/iot/" title="資安挑戰賽(另開新視窗)" target="_blank">
+                            <img src="/UploadImage/LinkItem/637007131864903561_index_link_05.jpg" alt="資安挑戰賽" /><!--建議尺寸400*200px-->
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://ci.taiwan.gov.tw/creativity/" title="民生公共物聯網資料應用競賽" target="_self">
+                            <img src="/UploadImage/LinkItem/637007131355058477_index_link_04.jpg" alt="民生公共物聯網資料應用競賽" /><!--建議尺寸400*200px-->
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="http://sciexplore.colife.org.tw/" title="2019全國科學探究競賽" target="_self">
+                            <img src="/UploadImage/LinkItem/637007130765369434_index_link_03.jpg" alt="2019全國科學探究競賽" /><!--建議尺寸400*200px-->
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="/Active/ActiveView/44?mid=47&amp;page=1" title="公開徵求御風者(ALPS)主機受贈單位公告" target="_self">
+                            <img src="/UploadImage/LinkItem/637007129567397565_index_link_01.jpg" alt="公開徵求御風者(ALPS)主機受贈單位公告" /><!--建議尺寸400*200px-->
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="/Active/ActiveView/43?mid=47&amp;page=1" title="數據匯集：國網中心資料集平台教育訓練" target="_self">
+                            <img src="/UploadImage/LinkItem/637007132616468015_index_link_02.jpg" alt="數據匯集：國網中心資料集平台教育訓練" /><!--建議尺寸400*200px-->
+                    </a>
+                </div>
+        </div>
+
+        <noscript>
+            <!--顯示前5筆-->
+            <div class="noscript_link">
+                    <div class="item">
+                        <a href="https://most.nchc.org.tw/iot/" title="資安挑戰賽" target="_blank">
+                                <img src="/UploadImage/LinkItem/637007131864903561_index_link_05.jpg" alt="資安挑戰賽" /><!--建議尺寸400*200px-->
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="https://ci.taiwan.gov.tw/creativity/" title="民生公共物聯網資料應用競賽" target="_self">
+                                <img src="/UploadImage/LinkItem/637007131355058477_index_link_04.jpg" alt="民生公共物聯網資料應用競賽" /><!--建議尺寸400*200px-->
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="http://sciexplore.colife.org.tw/" title="2019全國科學探究競賽" target="_self">
+                                <img src="/UploadImage/LinkItem/637007130765369434_index_link_03.jpg" alt="2019全國科學探究競賽" /><!--建議尺寸400*200px-->
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView/44?mid=47&amp;page=1" title="公開徵求御風者(ALPS)主機受贈單位公告" target="_self">
+                                <img src="/UploadImage/LinkItem/637007129567397565_index_link_01.jpg" alt="公開徵求御風者(ALPS)主機受贈單位公告" /><!--建議尺寸400*200px-->
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="/Active/ActiveView/43?mid=47&amp;page=1" title="數據匯集：國網中心資料集平台教育訓練" target="_self">
+                                <img src="/UploadImage/LinkItem/637007132616468015_index_link_02.jpg" alt="數據匯集：國網中心資料集平台教育訓練" /><!--建議尺寸400*200px-->
+                        </a>
+                    </div>
+            </div>
+        </noscript>
+    </div>
+</div>
+<script>
+    window.onload = function () {
+        $(".owl-prev").attr("title", "上一頁").attr("tabindex", "0");
+        $(".owl-next").attr("title", "下一頁").attr("tabindex", "0");
+        $(".tp-leftarrow").attr("title", "上一頁");
+        $(".tp-rightarrow").attr("title", "下一頁");
+    }
+</script>
+<!--index_link end-->
+    <!--footer start-->
+    <footer id="footer">
+        <div class="container">
+            <div class="col-md-4 col-sm-12 col-xs-12">
+
+                <form action="/Search/Search" method="post" id="searchform">
+                    <ul class="footer_menu">
+                        <a href="#;return false;" title="下選單區" accesskey="B">:::</a>
+                        <li data-sr='enter botom over 1.5s'><a target='_blank'  href='https://www.most.gov.tw/'  style='cursor:pointer' type='3' title='科技部(另開新視窗)'> 科技部</a></li><li data-sr='enter botom over 1.5s'><a target='_blank'  href='https://www.narlabs.org.tw/'  style='cursor:pointer' type='3' title='國家實驗研究院(另開新視窗)'> 國家實驗研究院</a></li><li data-sr='enter botom over 1.5s'><a   href='https://www.nchc.org.tw/Page?itemid=38&mid=65'  style='cursor:pointer' type='3' title='人才招募'> 人才招募</a></li><li data-sr='enter botom over 1.5s'><a   href='/Page?itemid=90&mid=147' style='cursor:pointer' type='2' title='資訊公開'>資訊公開</a></li><li data-sr='enter botom over 1.5s'><a   href='https://www.nchc.org.tw/Page?itemid=30&mid=52'  style='cursor:pointer' type='3' title='招標公告'> 招標公告</a></li><li data-sr='enter botom over 1.5s'><a   href='/Page?itemid=88&mid=150' style='cursor:pointer' type='2' title='隱私權及資訊安全政策'>隱私權及資訊安全政策</a></li>
+                    </ul>
+                    <div class="search" data-sr="enter botom over 1.5s">
+                        <label for="footer_search">
+                            <input type="text" id="footer_search" name="key">
+                        </label>
+                        <button type="submit" form="searchform" class="search_icon" title="搜尋" alt="搜尋" id="btn_mainsearch"><i class="fa fa-search"></i></button>
+                        <div class="hotword" id="hot_keyword">熱門搜尋：<a href='/Search/Search?key=%E5%9C%8B%E7%B6%B2%E4%B8%AD%E5%BF%83' key='國網中心' class='topserch' title='國網中心'> 國網中心</a>、<a href='/Search/Search?key=%E9%AB%98%E9%80%9F%E8%A8%88%E7%AE%97' key='高速計算' class='topserch' title='高速計算'> 高速計算</a>、<a href='/Search/Search?key=TWCC' key='TWCC' class='topserch' title='TWCC'> TWCC</a></div>
+                        <!--英文Popular search-->
+                    </div>
+                </form>
+                <ul class="link">
+                    <li data-sr="enter botom over 1.5s">
+                        <a href="https://www.facebook.com/%E5%9C%8B%E7%A0%94%E9%99%A2%E5%9C%8B%E7%B6%B2%E4%B8%AD%E5%BF%83-292580541692362/?notify_field=blurb&modal=profile_completion&notif_id=1558930416338465&notif_t=page_profile_blurb" target="_blank" title="facbook(另開新視窗)">
+                            <!--英文 facebook(new window)-->
+                            <span class="fa-stack fa-1g">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li data-sr="enter botom over 1.5s">
+                        <a href="https://www.instagram.com/nchc.tw/?hl=zh-tw" target="_blank" title="instagram(另開新視窗)">
+                            <!--英文 instagram(new window)-->
+                            <span class="fa-stack fa-1g">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li data-sr="enter botom over 1.5s">
+                        <a href="https://www.youtube.com/channel/UCWrzkYUM5cwpZExQ4Et5vSw?view_as=subscriber" target="_blank" title="youtube(另開新視窗)">
+                            <!--英文 youtube(new window)-->
+                            <span class="fa-stack fa-1g">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="line visible-sm visible-xs"></div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+<div class="position table">
+<div class="table-row" data-sr="enter botom over 1.5s">
+<div class="table-cell img"><img alt="新竹總部" src="/img/footer_pic_01.jpg" /><!--建議尺寸103*77px--></div>
+
+<div class="table-cell con">
+<div class="title">新竹本部</div>
+<!--英文Hsinchu Headquarters-->
+
+<div class="con_font">30076 新竹市東區研發六路7號<br />
+電話：886-3-5776085<br />
+傳真：886-3-5776082</div>
+</div>
+</div>
+
+<div class="table-row" data-sr="enter botom over 1.5s">
+<div class="table-cell img"><img alt="台中分部" src="/img/footer_pic_02.jpg" /></div>
+
+<div class="table-cell con">
+<div class="title">臺中分部</div>
+<!--英文Taichung Branch-->
+
+<div class="con_font">40763 臺中市西屯區科園路22號<br />
+電話：886-4-2462-0202、886-4-2465-0818<br />
+傳真：886-4-2462-7373</div>
+</div>
+</div>
+
+<div class="table-row" data-sr="enter botom over 1.5s">
+<div class="table-cell img"><img alt="台南分部" src="/img/footer_pic_03.jpg" /></div>
+
+<div class="table-cell con">
+<div class="title">臺南分部</div>
+<!--英文Tainan Branch-->
+
+<div class="con_font">74147 臺南市新市區南科三路28號<br />
+電話：886-6-5050940<br />
+傳真：886-6-5050945</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xs-6">
+<div class="contact table">
+<div class="table-row">
+<div class="table-cell" data-sr="enter botom over 1.5s"><i class="fas fa-phone-volume"></i></div>
+
+<div class="table-cell con" data-sr="enter botom over 1.5s">服務時間(週一至週五) 09:00~17:00
+<div class="tel">+886-3-5776085</div>
+客服專線
+
+<div class="tel">0809-091-365</div>
+下班時間及例假日請撥打
+
+<div class="tel">0800-351-510</div>
+</div>
+</div>
+
+<div class="table-row web_mail">
+<div class="table-cell" data-sr="enter botom over 1.5s"><i class="fas fa-envelope"></i></div>
+
+<div class="table-cell con" data-sr="enter botom over 1.5s">
+<div class="title">網站管理員：<br />
+<!--英文Website Support--> <a href="mailto:webmaster@narlabs.org.tw" title="webmaster@narlabs.org.tw">webmaster@narlabs.org.tw</a></div>
+</div>
+</div>
+</div>
+</div>
+
+        </div>
+        <div class="copyright">
+            <div class="container">
+                
+                    <div class="copyright">
+            <div class="container">
+                &copy; 財團法人國家實驗研究院國家高速網路與計算中心 <span class="hidden-xs">｜</span><span class="visible-xs"></span> 最佳瀏覽解析度為1366*768以上
+                <a href="#" target="_blank" title="通過AA優先等級無障礙網頁檢測(另開新視窗)"><img src="/img/accessibility_AA.png" alt="通過AA優先等級無障礙網頁檢測(另開新視窗)"></a>
+            </div>
+        </div>
+            </div>
+        </div>
+    </footer>
+    <!--footer end-->
+    <script src="/js/bootstrap.js"></script>
+    <script src="/js/theme.js"></script>
+    <script src="/js/theme.init.js"></script>
+
+    <!--banner start-->
+    <script src="/js/jquery.appear.min.js"></script>
+    <script src="/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/js/jquery.themepunch.revolution.min.js"></script>
+    <!--banner end-->
+    <!--滾動效果 start-->
+    <script src="/js/scrollReveal.js"></script>
+    <!--滾動效果 end-->
+
+
+</body>
+</html>
+<script type="text/javascript">
+    $(function () {
+         $(".scroll-to-top").attr('title','回頂端');
+        
+        size_set('');
+        $("body").delegate((".newopen"), "click", function () {
+            var width = $(this).attr('owidth');
+            var height = $(this).attr('oheight');
+            var path = $(this).attr('path');
+            var constr = [];
+            if (width !== undefined) { constr.push("width=" + width); }
+            if (height !== undefined) { constr.push("height=" + height); }
+            if (constr.length > 0) {
+                window.open(path, "", config = constr.join(','));
+            } else {
+                document.location.href = path;
+            }
+        });
+        $(".size_s,.size_m,.size_l").click(function () { $.post('/Home/SetFontSize', { size: $(this).attr("id") }, function (data) { }); });
+
+        $('#searchform').submit(function (event) {
+            var key = $("#footer_search").val();
+              if (key == "") { alert('請確實輸入搜尋關鍵字'); return false; }
+        });
+        var nowlangid = '1';
+        if (nowlangid == "1") {
+            $(".langchange").attr('langid', "2");
+        } else {
+            $(".langchange").attr('langid', "1");
+        }
+       $(".sellang").val('');
+       
+           if ('' == "Y") {
+               showauth();
+           }
+    });
+
+</script>
