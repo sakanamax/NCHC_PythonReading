@@ -28,7 +28,7 @@ vscode extension
     * 參考 https://docs.microsoft.com/zh-tw/azure/mysql/concepts-migrate-import-export
 
 * createtable.py 使用 input() 方式連接 Azure DB, 然後建立 Table and data
-
+* 下次看 10-1-4
 
 ------------------------------
 
