@@ -23,8 +23,12 @@ vscode extension
 * MySQL workbench 安裝以及 Azure DB 連接測試
   
   * 簡單的 SQL 語法測試 
+  * 使用 MySQL workbench 在SCHEMAS 視窗, table 上面按右鍵 -- > Table Data Import Wizard 匯入
+ 
+    * 參考 https://docs.microsoft.com/zh-tw/azure/mysql/concepts-migrate-import-export
 
 * createtable.py 使用 input() 方式連接 Azure DB, 然後建立 Table and data
+
 
 ------------------------------
 
