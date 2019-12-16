@@ -18,6 +18,16 @@ vscode extension
 
 ------------------------------
 
+2019/12/16
+
+* MySQL workbench 安裝以及 Azure DB 連接測試
+  
+  * 簡單的 SQL 語法測試 
+
+* createtable.py 使用 input() 方式連接 Azure DB, 然後建立 Table and data
+
+------------------------------
+
 2019/12/15
 
 * Review 10-1.py, 安裝 mariadb-client , 重設 Azure MySQL DB 密碼, 使用 pip3 安裝 wheel 與 mysql-connector-python-rf
