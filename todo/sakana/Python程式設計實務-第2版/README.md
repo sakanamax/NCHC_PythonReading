@@ -18,6 +18,16 @@ vscode extension
 
 ------------------------------
 
+2020/1/4
+
+* 看 10-1-4 ~ 10-2-1 
+* 使用 Azure 文件上面的方式建立 10-2.py, 之前中油的資料是匯入到 quickstartdb 內的 prices table
+* Azure 上面使用 DB: quickstartdb
+* MySQL workbench 很好用, 可以快速獲得資訊之後, 再想 python 內容要如何寫
+* 下次看 10-3
+
+------------------------------
+
 2019/12/16
 
 * MySQL workbench 安裝以及 Azure DB 連接測試
