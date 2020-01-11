@@ -148,9 +148,9 @@ def list_time_series_aggregate(project_id):
     for result in results:
       cpuUtil = result.points[0].value.double_value
       if cpuUtil < 0.2: #需要判斷的 CPU
-          print("instance name:", result.metric.labels)
-          print("instance id:", result.resource.labels['instance_id'])
-          print("CPU utilization:", cpuUtil, "\n")
+          print("instance name:", result.metric.labels) # 列出 instance 名稱
+          print("instance id:", result.resource.labels['instance_id']) # 列出 instance id 來區別同樣名稱的 VM
+          print("CPU utilization:", cpuUtil, "\n") # 列出 cpu 使用量
     #    print(result) 註解原來的方式
     # [END monitoring_read_timeseries_align]
 
