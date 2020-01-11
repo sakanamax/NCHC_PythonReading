@@ -121,7 +121,7 @@ def list_time_series_header(project_id):
 
 # 這邊定義要查詢的區間
 
-query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:  ") or 604800
+query_time = input("Please input your query time in seconds, for example, 7 Days is 604800:  ") or 604800
 query_time_int=int(query_time) # 這邊將 query_time type 從 str 轉型為 int
 print("")
 cpu_threshold = input("Please input cpu usage under threshold, like 0.2 for 20%:  ") or 0.2
