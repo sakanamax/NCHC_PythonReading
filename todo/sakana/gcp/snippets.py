@@ -121,7 +121,7 @@ def list_time_series_header(project_id):
 
 # 這邊定義要查詢的區間
 
-query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:")
+query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:  ")
 query_time_int=int(query_time) # 這邊將 query_time type 從 str 轉型為 int
 
 def list_time_series_aggregate(project_id):
