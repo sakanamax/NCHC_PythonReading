@@ -122,6 +122,7 @@ def list_time_series_header(project_id):
 # 這邊定義要查詢的區間
 
 query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:")
+query_time_int=int(query_time) # 這邊將 query_time type 從 str 轉型為 int
 
 def list_time_series_aggregate(project_id):
     # [START monitoring_read_timeseries_align]
@@ -132,10 +133,10 @@ def list_time_series_aggregate(project_id):
     interval.end_time.seconds = int(now)
     interval.end_time.nanos = int(
         (now - interval.end_time.seconds) * 10**9)
-    interval.start_time.seconds = int(now - query_time) # 這邊用 query_time 來彈性調整
+    interval.start_time.seconds = int(now - query_time_int) # 這邊用 query_time 來彈性調整
     interval.start_time.nanos = interval.end_time.nanos
     aggregation = monitoring_v3.types.Aggregation()
-    aggregation.alignment_period.seconds = query_time  # 這邊用 query_time 來彈性調整
+    aggregation.alignment_period.seconds = query_time_int  # 這邊用 query_time 來彈性調整
     aggregation.per_series_aligner = (
         monitoring_v3.enums.Aggregation.Aligner.ALIGN_MEAN)
 
