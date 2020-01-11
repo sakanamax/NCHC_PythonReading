@@ -121,8 +121,12 @@ def list_time_series_header(project_id):
 
 # 這邊定義要查詢的區間
 
-query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:  ")
+query_time = input("Please input your query time in seconds, for example, 10 Days is 604800:  ") or 604800
 query_time_int=int(query_time) # 這邊將 query_time type 從 str 轉型為 int
+print("")
+cpu_threshold = input("Please input cpu usage under threshold, like 0.2 for 20%:  ") or 0.2
+cpu_threshold_float = float(cpu_threshold)
+print("")
 
 def list_time_series_aggregate(project_id):
     # [START monitoring_read_timeseries_align]
@@ -148,7 +152,7 @@ def list_time_series_aggregate(project_id):
         aggregation)
     for result in results:
       cpuUtil = result.points[0].value.double_value
-      if cpuUtil < 0.2: #需要判斷的 CPU
+      if cpuUtil < cpu_threshold_float: #需要判斷的 CPU threshold, 用 cpu_threshold 來彈性調整
           print("instance name:", result.metric.labels) # 列出 instance 名稱
           print("instance id:", result.resource.labels['instance_id']) # 列出 instance id 來區別同樣名稱的 VM
           print("CPU utilization:", cpuUtil, "\n") # 列出 cpu 使用量
