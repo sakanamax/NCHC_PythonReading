@@ -154,6 +154,7 @@ def list_time_series_aggregate(project_id):
       cpuUtil = result.points[0].value.double_value
       if cpuUtil < cpu_threshold_float: #需要判斷的 CPU threshold, 用 cpu_threshold 來彈性調整
           print("instance name:", result.metric.labels) # 列出 instance 名稱
+          # instance_id 是放在 resource.labels 下, 以字典的方式儲存, 所以透過 ['KEY_NAME'] 取出
           print("instance id:", result.resource.labels['instance_id']) # 列出 instance id 來區別同樣名稱的 VM
           print("CPU utilization:", cpuUtil *100, "% \n") # 列出 cpu 使用量
     #    print(result) 註解原來的方式
