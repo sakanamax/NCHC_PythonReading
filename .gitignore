@@ -79,3 +79,6 @@ Temporary Items
 .todo/daniel/Python程式設計實務-第2版/.python_history/*
 .todo/daniel/Python程式設計實務-第2版/.vscode
 .todo/daniel/Python程式設計實務-第2版/.vscode/*
+
+# SendGrid env file ( SENDGRID_API_KEY )
+sendgrid.env
