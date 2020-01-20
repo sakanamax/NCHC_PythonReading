@@ -1,0 +1,17 @@
+###
+# 上面的 3 個 # 表示可以點選發送請求
+# 測試 REST Client with vscode
+GET http://www.google.com.tw HTTP/1.1
+
+###
+# 圖片是可以直接預覽
+GET https://avatars1.githubusercontent.com/u/5405809?v=4
+
+###
+
+GET https://api.github.com/users/sakanamax
+
+###
+
+GET https://api.github.com/repos/sakanamax/NCHC_PythonReading HTTP/1.1
+
