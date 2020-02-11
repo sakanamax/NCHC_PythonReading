@@ -45,6 +45,21 @@ IDE
 
 ### 2019 - 2020 年讀書會
 
+-------------------------------------------------
+
+2020/2/11
+
+* 10-2-2 ~ 11-1-1
+
+* katalon Recorder
+
+* Pyinstaller ( https://www.pyinstaller.org/index.html ) -  將 python 打包成執行檔
+
+* Afu 筆記 Firebase - https://fufu.gitbook.io/kk8s/python/11-1-firebase-describe
+
+* 下次 11-1-2 
+
+* 下次 2020/2/25
 
 -------------------------------------------------
 
