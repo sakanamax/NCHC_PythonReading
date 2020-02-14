@@ -6,7 +6,7 @@ This is notes for Max reading
 
 使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4 / wheel ( 需要先安裝) 與 mysql-connector-python-rf / mysqlclient / sendgrid
+* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4 / wheel ( 需要先安裝) 與 mysql-connector-python-rf / mysqlclient / sendgrid / selenium
 
 使用 zypper 安裝
 
@@ -15,6 +15,24 @@ This is notes for Max reading
 vscode extension
 
 * GitLens / Code time / Bracket Pair Colorizer
+
+------------------------------
+
+2020/2/14
+
+* 刪除 Azure MySQL DB
+
+* 10-3-1 ~ 11-1-2
+
+* ChromeDriver https://sites.google.com/a/chromium.org/chromedriver/downloads
+  *  Chrome 版本 80.0.3987.87 - 下載對應的 Linux 版本, 解開爲 chromedriver放在 Exercise 目錄下 
+
+* firebase - https://firebase.google.com/
+  * 為了不影響自己 GCP 的專案, 建立一個新專案來測試, 因為刪除 firebase 的時候, 會影響到現有專案
+  * 使用 即時資料庫, 以測試模式啟動
+  * 此資料庫匯入以及匯出只支援 JSON 格式
+
+* 下次 11-1-3
 
 
 ------------------------------
