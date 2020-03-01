@@ -6,7 +6,7 @@ This is notes for Max reading
 
 使用 pip 安裝, 注意可能要用 pip3 安裝
 
-* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4 / wheel ( 需要先安裝) 與 mysql-connector-python-rf / mysqlclient / sendgrid / selenium
+* virtualenv / numpy / matplotlib / gtts / sympy / requests / bs4 / wheel ( 需要先安裝) 與 mysql-connector-python-rf / mysqlclient / sendgrid / selenium / python-firebase
 
 使用 zypper 安裝
 
@@ -15,6 +15,19 @@ This is notes for Max reading
 vscode extension
 
 * GitLens / Code time / Bracket Pair Colorizer
+
+------------------------------
+
+2020/3/1
+
+* 11-1-3.py ~ 11-1 結束
+
+* 沒有看到 database 發佈按鈕, 但是如果有上傳過資料, 感覺 database 就會保留住, 有待驗證
+
+* python-firebase github 網頁 https://github.com/ozgur/python-firebase
+  * 練習上面的範例 存成 11-1-github-example.py
+
+* 下次看 11-2
 
 ------------------------------
 
