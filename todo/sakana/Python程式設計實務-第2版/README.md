@@ -18,6 +18,22 @@ vscode extension
 
 ------------------------------
 
+2020/3/16
+
+* 11-3 ~ 11-3 結束
+
+* 我是用 container 來練習, 安裝 nodejs10, npm10
+
+* 在容器內進行 firebase login 的時候, 記得先 -p 9005:9005 , 才會驗證成功
+
+* firebase init 可以先進入要放靜態頁面的目錄才進行, 然後我選 Hosting: Configure and deploy Firebase Hosting sites
+
+* 靜態網頁的部分, 沒有出現相關網頁, 如果直接存取 https://sakanatestfirebase.firebaseio.com/invlotto 會出現作業未經授權
+
+* 下次看 11-4
+
+------------------------------
+
 2020/3/3
 
 * 11-2 ~ 11-2 結束
